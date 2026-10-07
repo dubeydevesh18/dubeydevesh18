@@ -83,11 +83,6 @@ Computer Science graduate (**B.Sc., University of Mumbai — CGPI 8.68**) workin
 
 ---
 
-## 💼 Experience & Credentials
-
-**☁️ Cloud Computing Intern** — *iFuture Technologies* · July 2024
-Worked across cloud fundamentals (IaaS / PaaS / SaaS), virtualization, and infrastructure management in VMware environments.
-
 **Certifications** 
 - 📊 Masters in Data Science & Data Analytics — **IT Vedant**
 - 🥇 Intermediate SQL Developer — **HackerRank**
