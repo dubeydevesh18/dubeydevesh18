@@ -10,7 +10,7 @@
 <a href="mailto:deveshdubey625@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/dubeydevesh18"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=deveshdubey18&style=flat-square&color=2EB9DF&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=dubeydevesh18&style=flat-square&color=2EB9DF&label=Profile+Views" alt="Profile views" />
 
 </div>
 
